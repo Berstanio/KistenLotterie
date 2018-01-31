@@ -1,0 +1,8 @@
+name: KistenOeffner
+version: 1.0
+author: Berstanio
+
+main: de.berstanio.kistenoeffner.BukkitMain
+
+commands:
+  test:
